@@ -1,0 +1,43 @@
+.item1 {
+	grid-column-start: 1;
+}
+.item2 {
+	grid-column-start: 3;
+}
+
+.item3 {
+	grid-row-start: 2;
+	grid-column-start: 2;
+}
+
+.item4 {
+	 grid-row-start: 3;
+}
+
+.item5 {
+	grid-row-start: 3;
+	grid-column-start: 3;
+}
+
+.item_a {
+	grid-row-start: 3;
+	grid-column-start: 3;
+}
+
+.item_b {
+	grid-column-start: 3;
+}
+
+.item_c {
+	grid-row-start: 2;
+}
+
+.item_d {
+	grid-row-start: 2;
+	grid-column-start: 2;
+}
+
+.item_e {
+	grid-row-start: 2;
+	grid-column-start: 3;
+}
